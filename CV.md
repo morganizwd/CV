@@ -1,7 +1,7 @@
 # ___MY FIRST EVER AC___
 
 > # Lobanovsky Ilya
-![Face Reveal](https://sun9-73.userapi.com/impg/k214DjVSQOfPGhrgrSEJeU_wEUsOmJp5mQU-dg/vux7krLKpdU.jpg?size=1620x2160&quality=95&sign=722ad6a8268dc02cb771da5c4b67305d&type=album)
+![Face Reveal](https://sun9-31.userapi.com/impg/Cr-XK2xPL1086KZGR0VdKaTuHDNmRfL-ipX-2g/1iTP-PMG9LE.jpg?size=512x512&quality=96&sign=e58a466d0ac313afff3af0f7034b7758&type=album)
 > ## Age: 19
 ___
 > ### My contacts:
