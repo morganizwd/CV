@@ -21,9 +21,11 @@ I am a student. At the moment I live in Belarus, the city of Mogilev. I am a sec
 ___
 >### My skills:
 1. C# (CodeWars 4kuy)
-2. T-SQL (Microsoft SQL Server, Microsoft Access)
+2. JavaScript (CodeWars 5kuy)
 3. Python (Basic skills)
 4. C++ (Basic skills)
+5. Figma
+6. Photoshop
 Previously participated in the course from Epam (AutoCode -  .net)
 ___
 > ### English level: B1 (according to Epam english test)
