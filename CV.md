@@ -26,6 +26,7 @@ ___
 4. C++ (Basic skills)
 5. Figma
 6. Photoshop
+
 Previously participated in the course from Epam (AutoCode -  .net)
 ___
 > ### English level: B1 (according to Epam english test)
