@@ -6,9 +6,6 @@
 ___
 > ### My contacts:
 * [Telegram](https://t.me/morganizwd)
-* [VK](https://vk.com/lil_lame)
-* [Instagram](https://www.instagram.com/morganizwd/)
-* [YouTube](https://www.youtube.com/channel/UCvgAXL5C2zJhm_byyMeXePg)
 * [GitHub](https://github.com/morganizwd)
 * [GitLab](https://gitlab.com/morganizwd)
 ___
