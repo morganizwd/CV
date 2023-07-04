@@ -27,7 +27,9 @@ ___
 5. Figma
 6. Photoshop
 
-Previously participated in the course from Epam (AutoCode -  .net)
+>Previously participated in the courses:
+1. Epam (AutoCode -  .net)
+2. RS-School (Frontend - stage 0, stage 1)
 ___
 > ### English level: B1 (according to Epam english test)
 ___
