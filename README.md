@@ -1,1 +1,1 @@
-https://morganizwd.github.io/CurriculumVitae/
+https://morganizwd.github.io/CurriculumVitae/CV
